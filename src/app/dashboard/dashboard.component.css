@@ -1,0 +1,224 @@
+
+html, body {
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 2145px;
+    background: #FCFCFF 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+div {
+    position: absolute;
+}
+.smallblob {
+    position: absolute;
+    top: 213px;
+    left: -179px;
+    width: 571px;
+    height: 572px;
+    /* background: transparent url('/assets/images/blob-small.svg') no-repeat; */
+    opacity: 1; 
+    float: left;
+    
+}
+
+.circle {
+    position: absolute;
+    top: -227.9068603515625px;
+    left: 852px;
+    width: 1183px;
+    height: 1192px;
+    /* transform: matrix(0.12, -0.99, 0.99, 0.12, 0, 0); */
+    /* background: transparent 0% 0% no-repeat padding-box; */
+    opacity: 0.5;
+}
+
+.accounting_dots_left {
+    position: absolute;
+    top: 796px;
+    left: 462px;
+    width: 430px;
+    opacity: 0.5;
+    height: 70px;
+}
+
+.accounting_dots_right {
+    position: absolute;
+    top: 936px;
+    left: 1458px;
+    width: 430px;
+    height: 70px;
+}
+
+.collect_img {
+    position: absolute;
+    top: 466px;
+left: 136px;
+width: 652px;
+height: 365px;
+opacity: 1;
+}
+
+.title {
+    position: absolute;
+    top: 270px;
+left: 189px;
+width: 407px;
+height: 98px;
+opacity: 1;
+}
+
+.dash {
+    position: absolute;
+    top: 376px;
+left: 192px;
+width: 236px;
+height: 8px;
+background: #000000 0% 0% no-repeat padding-box;
+border-radius: 13px;
+opacity: 0.7;
+}
+
+.group {
+    position: absolute;
+    top: 270px;
+left: 1100px;
+width: 688px;
+height: 675px;
+opacity: 1;
+}
+
+.sol_wave_bg {
+    position: absolute;
+    top: 1209px;
+left: 0.0001220703125px;
+width: 1920px;
+height: 936px;
+opacity: 1;
+}
+
+
+.boost {
+    position: absolute;
+    top: 1377px;
+left: 1158px;
+width: 490px;
+height: 98px;
+}
+
+.dash2 {
+    position: absolute;
+    top: 1528px;
+    left: 1158px;
+    width: 120px;
+    height: 0px;
+background: #000000 0% 0% no-repeat padding-box;
+border-radius: 13px;
+opacity: 0.7;
+}
+
+.hands {
+    position: absolute;
+    top: 1561px;
+left: 1158px;
+width: 490px;
+height: 44px;
+}
+
+.line {
+    position: absolute;
+    top: 1528px;
+    left: 1158px;
+    width: 120px;
+    height: 0px;
+    border: 6px solid #707070;
+    opacity: 1; 
+}
+
+.box1 {
+    position: absolute;
+    top: 1137px;
+left: 191px;
+}
+
+.boxhover div:hover {
+    background-color:#e6c9f8;
+  }
+
+.box2 {
+    position: absolute;
+    top: 1450px;
+left: 191px;
+}
+
+.box3 {
+    position: absolute;
+    top: 1786px;
+left: 191px;
+}
+
+.box4 {
+    position: absolute;
+    top: 1261px;
+    left: 630px;
+}
+
+.box5 {
+    position: absolute;
+    top: 1593px;
+    left: 630px;
+}
+
+.box {
+    position: absolute;
+    width: 391px;
+    height: 253px;
+    box-shadow: 0px 0px 30px #2321321F;
+border: 1px solid #FFFFFF;
+border-radius: 20px;
+opacity: 1;
+}
+
+.innerimage {
+    position: absolute;
+    width: 90px;
+height: 90px;
+left: 34.02px;
+top: 34.02px;
+}
+
+.toptext {
+    position: absolute;
+    width: 323px;
+height: 19px;
+size: 15px;
+font-family: 'Montserrat', sans-serif;
+font-weight: bold;
+left: 34px;
+top: 100px;
+}
+
+.innertext {
+    position: absolute;
+    width: 323px;
+height: 38px;
+left: 34px;
+top: 135px;
+}
+
+.openaccount {
+position: absolute;
+box-shadow: 0px 0px 20px #00000033;
+border: 2px solid #663399;
+border-radius: 24px;
+top: 1686px;
+left: 1158px;
+width: 279px;
+height: 58px;
+opacity: 1;
+
+}
+
+.buttonhover div:hover {
+    background-color:#e6c9f8;
+}
